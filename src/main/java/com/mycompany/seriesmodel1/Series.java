@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 // Model class to represent a TV series with its properties
 class SeriesModel {
-    // Public fields to store series information
+    // Public fields to store series information and data
     public String SeriesId;          // unique identification for the series
     public String SeriesName;        // Name of the TV series
     public String SeriesAge;         // Age restriction for the series
